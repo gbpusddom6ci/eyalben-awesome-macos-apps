@@ -21,6 +21,7 @@ Inspired by [@guyzyl/awesome-macos-apps](https://github.com/guyzyl/awesome-macos
 - [Handbrake](https://handbrake.fr/) - Video transcoder
 - [Spotify](https://www.spotify.com/) - Spotify...
 - [SpotMenu](https://kmikiy.github.io/SpotMenu/) - Spotify mini-player for the menu bar
+- [Headphone Control](https://kulaklikkontrol.github.io/join/?via=directories) - Menu bar controls for Sony headphones (ANC/ambient, battery); free TestFlight beta, tested on WH-1000XM5
 - [VLC](https://www.videolan.org/) - Plays any video
 
 ## Design
